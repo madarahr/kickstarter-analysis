@@ -34,6 +34,8 @@ The fundraising outcome in terms of percentages of successful funding based on l
 
 Further, within the Theater category, for the most successful fundraising subcategory of Plays, it is also evident that a goal amount of less than $5,000 was the most optimal to reach the goal.
 
+It can also be demonstrated that goals over $45,000 are typically unsuccesful and there have been no cancelations of plays despite a poor pledge.
+
 ![](Images/Outcomes%20Based%20on%20Goal%20for%20Plays.png)
 
 
